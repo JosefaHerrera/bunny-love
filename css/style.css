@@ -119,6 +119,10 @@ img {
 }
 
 /*info*/
+iframe{
+		width:100%;
+	}
+
 .fondo-colors{
 	background-color:#037F99;
 	padding: 31px;
